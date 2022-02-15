@@ -1,9 +1,9 @@
 # YSLua
- Decompiled and compiled lua files for the game Genshin Impact
+ Decompiled and compiled lua files for a certain anime game that i cannot say
 
 
 Updated for 2.5.0
 
 
- Massive thanks to radioegor(assetIndex), khangaroo(blkstuff + og genshin AssetStudio), Partypooper(unluac fork), and Razmoth(AssetStudio-CAB)
+ Massive thanks to radioegor(assetIndex), khangaroo(blkstuff), Partypooper(unluac-fork), and Razmoth(AssetStudio-CAB)
 
